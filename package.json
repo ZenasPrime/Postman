@@ -1,0 +1,12 @@
+{
+	"name": "com.zenasprime.postman",
+	"version": "0.0.1",
+	"displayName": "Postman",
+	"description": "A simple network server-client framework for Unity.",
+	"unity": "2022.3",
+	"dependencies": {},
+	"author": {
+		"name": "Zenas Bellace",
+		"email": "zenas@quadratron.com"
+	}
+}
